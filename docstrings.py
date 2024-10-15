@@ -14,3 +14,5 @@ def meow(n):
 number = int(input("Number: "))
 meows = meow(number)
 print(meows, end="")
+
+# Use docstrings to generate documentation: https://www.sphinx-doc.org/en/master/index.html 
